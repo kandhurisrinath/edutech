@@ -1,1 +1,3 @@
 # edutech
+company
+location
